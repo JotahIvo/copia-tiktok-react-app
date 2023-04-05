@@ -54,3 +54,9 @@
         transform: translateX(-200px);
     }
 }
+
+@media only screen and (max-width: 440px) {
+    .videoFooter{
+        bottom: 200px;
+    }
+}
